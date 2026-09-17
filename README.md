@@ -1,2 +1,0 @@
-# dktdesign.github.io
-Portfolio
