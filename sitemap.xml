@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Pages Principales -->
+  <url>
+    <loc>https://www.dktdesign.com/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/logos/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/webdesign-ui-ux/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Projets Portfolio -->
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-logo-friction/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/webdesign-ui-jeu-cta-pompier/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-webdesign-coindistrict/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-logo-closso-mont-caume/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-logo-print-reve-bleu/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-webdesign-densitherm/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-logo-print-george-diplomate/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-webdesign-nounouland/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-logo-print-ropion/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-logo-seagale/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-logo-tidy-pretty/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/portfolio/identite-visuelle-webdesign-dashboard-upxp/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Pages Utilitaires & Légales -->
+  <url>
+    <loc>https://www.dktdesign.com/contact/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/mentions/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.dktdesign.com/confidentialite/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
