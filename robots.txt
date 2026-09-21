@@ -1,14 +1,5 @@
 User-agent: *
 Allow: /
 
-# Directives d'exclusion pour les dossiers privés et de travail
-Disallow: /divers/
-Disallow: /devis/
-Disallow: /factures/
-Disallow: /contrats/
-Disallow: /documents/
-Disallow: /docs/
-Disallow: /wip/
-
 # Plan du site
 Sitemap: https://www.dktdesign.com/sitemap.xml
