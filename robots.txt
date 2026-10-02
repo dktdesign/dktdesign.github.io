@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Plan du site
-Sitemap: https://www.dktdesign.com/sitemap.xml
